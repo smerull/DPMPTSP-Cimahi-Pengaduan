@@ -2,7 +2,7 @@
     <aside class="w-64 bg-gray-900 text-white shadow-lg">
         <div class="p-6 text-xl font-bold border-b border-gray-700">Admin Dashboard</div>
         <nav class="mt-6">
-            <a href="#"
+            <a href="/admin"
                 class="flex items-center py-3 px-4 rounded-md hover:bg-gray-700 transition ease-in-out duration-150">
                 <svg class="w-5 h-5 mr-3 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"
                     xmlns="http://www.w3.org/2000/svg">
@@ -11,7 +11,7 @@
                 </svg>
                 Dashboard
             </a>
-            <a href="#"
+            <a href="/user"
                 class="flex items-center py-3 px-4 rounded-md hover:bg-gray-700 transition ease-in-out duration-150">
                 <svg class="w-5 h-5 mr-3 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"
                     xmlns="http://www.w3.org/2000/svg">
@@ -20,7 +20,7 @@
                 </svg>
                 Users
             </a>
-            <a href="#"
+            <a href="/pengaduan"
                 class="flex items-center py-3 px-4 rounded-md hover:bg-gray-700 transition ease-in-out duration-150">
                 <svg class="w-5 h-5 mr-3 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"
                     xmlns="http://www.w3.org/2000/svg">
@@ -28,7 +28,7 @@
                 </svg>
                 Pengaduan
             </a>
-            <a href="#"
+            <a href="/sop"
                 class="flex items-center py-3 px-4 rounded-md hover:bg-gray-700 transition ease-in-out duration-150">
                 <svg class="w-5 h-5 mr-3 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"
                     xmlns="http://www.w3.org/2000/svg">
@@ -37,7 +37,7 @@
                 </svg>
                 SOP
             </a>
-            <a href="#"
+            <a href="/kontak"
                 class="flex items-center py-3 px-4 rounded-md hover:bg-gray-700 transition ease-in-out duration-150">
                 <svg class="w-5 h-5 mr-3 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"
                     xmlns="http://www.w3.org/2000/svg">
@@ -46,7 +46,7 @@
                 </svg>
                 KONTAK
             </a>
-            <a href="#"
+            <a href="/login"
                 class="flex items-center py-3 px-4 rounded-md hover:bg-gray-700 transition ease-in-out duration-150">
                 <svg class="w-5 h-5 mr-3 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"
                     xmlns="http://www.w3.org/2000/svg">

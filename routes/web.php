@@ -35,3 +35,15 @@ Route::get('/home', function () {
 Route::get('/admin', function () {
     return view('admin/admin');
 });
+Route::get('/user', function () {
+    return view('admin/user');
+});
+Route::get('/kontak', function () {
+    return view('admin/kontak');
+});
+Route::get('/pengaduan', function () {
+    return view('admin/pengaduan');
+});
+Route::get('/sop', function () {
+    return view('admin/sop');
+});
