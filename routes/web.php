@@ -30,7 +30,7 @@ Route::get('register', [RegisterController::class, 'showRegistrationForm'])->nam
 // Proses pendaftaran
 Route::post('register', [RegisterController::class, 'register']);
 Route::get('/home', function () {
-    return view('home');
+    return view('user/home');
 });
 Route::get('/admin', function () {
     return view('admin/admin');
